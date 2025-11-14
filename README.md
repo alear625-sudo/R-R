@@ -19,6 +19,8 @@
   </style>
 </head>
 <body>
+  <img src="logo.png" alt="Logo R & R" style="width:120px; margin-bottom:10px;">
+<br>
   <header>
     <strong>R & R </strong><br>
    Fabricação e Montagem de Móveis Planejados<br>Realizamos sonhos
