@@ -1,5 +1,5 @@
 # R&R
-R&amp;R
+R&R
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
