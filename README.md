@@ -1,4 +1,4 @@
-<header>logo.jpg
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
@@ -21,7 +21,7 @@
 <body>
   <header>
     <strong>R & R </strong><br>
-    Produção e Montagem de Móveis Planejados<br>Realizamos sonhos
+   Fabricação e Montagem de Móveis Planejados<br>Realizamos sonhos
   </header>
 
   <nav>
